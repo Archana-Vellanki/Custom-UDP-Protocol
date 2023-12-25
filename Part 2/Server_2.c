@@ -1,6 +1,3 @@
-// Archana Vellanki
-// SCU ID: 7700009833
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
