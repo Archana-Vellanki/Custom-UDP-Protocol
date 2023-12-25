@@ -1,5 +1,3 @@
-// Archana Vellanki, SCU ID: 7700009833
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
